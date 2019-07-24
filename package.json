@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/lil-kira/Pet-Bot#readme",
   "dependencies": {
+    "@discordjs/uws": "^10.149.0",
     "chalk": "^2.4.2",
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.5.1",
+    "sequelize": "^5.10.1",
+    "sqlite3": "^4.0.9",
+    "zucc": "^0.1.2"
   }
 }
